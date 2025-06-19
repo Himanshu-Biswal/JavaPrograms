@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.skillBridge.User&apos; to &apos;Student&apos;&#x0D;&#x0A;- Original project: &apos;SkillBridge&apos;&#x0D;&#x0A;- Original element: &apos;com.skillBridge.User&apos;&#x0D;&#x0A;- Renamed element: &apos;com.skillBridge.Student&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;User&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.skillBridge{User.java[User" matchStrategy="1" name="Student" qualified="false" references="true" similarDeclarations="false" stamp="1750056703170" textual="false" version="1.0"/>
+</session>

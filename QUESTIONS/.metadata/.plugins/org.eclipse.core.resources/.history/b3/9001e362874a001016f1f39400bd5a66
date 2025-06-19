@@ -1,0 +1,5 @@
+package com.skillBridge;
+
+public enum InternshipCatagory {
+
+}
